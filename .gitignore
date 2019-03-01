@@ -1,5 +1,9 @@
 # this is a comment
 
+#ignores tempfile 1 and 2
 tempfile.txt
+tempfile2.txt
+
+#ignores everything starting with ._
 ._*
 
